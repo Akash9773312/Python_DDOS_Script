@@ -1,4 +1,4 @@
-# Python_DDOS_Script\
+# Python_DDOS_Script
 
 It is an python script which used to perform DDOS(Distributed Denial of Services) attack.
 
